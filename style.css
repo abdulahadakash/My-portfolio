@@ -1,15 +1,14 @@
 h1{
-    font-family: 'Poppins', sans-serif;
     font-size: 50px;
 }
 h1 .orange{
     color: orange;
 }
 h2{
-    font-size: 30px;
+    font-size: 40px;
 }
 p{
-    font-size: 25px;
+    font-size: 30px;
 }
 section{
     display: flex;
@@ -20,4 +19,19 @@ section{
 }
 .half-width img{
     width: 80%;
+}
+.link-batton{
+    text-decoration: none;
+    background-image: linear-gradient(orange,red);
+    padding: 15px 30px;
+    border-radius: 8px;
+    font-size: 25px;
+}
+.top-benner{
+    background-image: url(images/top-banner.png);
+    background-repeat: no-repeat;
+}
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
 }
