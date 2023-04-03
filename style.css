@@ -22,7 +22,11 @@ section{
 }
 .link-batton{
     text-decoration: none;
-    background-image: linear-gradient(orange,red);
+
+}
+.link-batton{
+
+   background-image: linear-gradient(orange,red);
     padding: 15px 30px;
     border-radius: 8px;
     font-size: 25px;
@@ -34,4 +38,8 @@ section{
 body{
     margin: 0;
     font-family: 'Poppins', sans-serif;
+}
+.middle-img{
+    background-image: url(images/dream-bg.png);
+    background-repeat: no-repeat;
 }
