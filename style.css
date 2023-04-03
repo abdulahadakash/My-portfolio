@@ -10,7 +10,7 @@ h2{
 p{
     font-size: 30px;
 }
-section{
+.flexable-container{
     display: flex;
 }
 .half-width{
