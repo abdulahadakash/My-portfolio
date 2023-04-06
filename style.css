@@ -74,3 +74,6 @@ body{
 footer p{
     text-align: center;
 }
+body p{
+    font-size: 20px;
+}
